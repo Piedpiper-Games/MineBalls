@@ -1,6 +1,3 @@
-[Orbium](http://bni.github.com/orbium)
-================================
-
 About the game
 ---------------------------------------
 Orbium is a modern version of the 90's game [Log!cal](http://hol.abime.net/906).
